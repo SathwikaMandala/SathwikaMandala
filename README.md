@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathwikamandala" alt="sathwikamandala" /></a> </p>
 
+- 🌱 I’m currently learning **Python Full Stack**
+
+- 📫 How to reach me **sathwikamandala3@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sathwika-mandala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwika-mandala" height="30" width="40" /></a>
